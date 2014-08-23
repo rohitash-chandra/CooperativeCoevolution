@@ -350,6 +350,7 @@ void GeneticAlgorithmn::PrintPopulation()
 
 double GeneticAlgorithmn:: Objective(Layer x)
 {
+	//do not use this. use the Objective function in the Cooperative Coevolution class
  
   return 0;
 }
