@@ -1,4 +1,5 @@
-ccga
+Cooperative Coevolution using Generalised Generation Gap with Parent-Centric Crossover (G3PCX)
 ====
 
-Cooperative Coevolution G3PCX
+Based on
+
